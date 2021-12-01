@@ -30,7 +30,7 @@ adonis migration:run
 
 ### RUN
 
-Run the following command to run startup migrations.
+Command to start the HTTP Server.
 
 ```js
 adonis serve --dev
